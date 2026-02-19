@@ -1,0 +1,42 @@
+RESTRICTIVE USE LICENSE
+
+Copyright (c) 2026. All rights reserved.
+
+TERMS AND CONDITIONS
+
+1. VIEWING RIGHTS
+   This repository is made available for viewing and educational purposes only.
+   You may read and study the contents of this repository.
+
+2. PROHIBITED USES
+   Without explicit written permission from the copyright holder, you may NOT:
+
+   a) Copy, reproduce, or duplicate any part of this repository
+   b) Use any content for training artificial intelligence or machine learning models
+   c) Scrape, crawl, or programmatically access the contents of this repository
+   d) Redistribute, sublicense, or transfer any content to third parties
+   e) Use the content for any commercial purpose
+   f) Create derivative works based on this content
+   g) Use any techniques, methodologies, or tools described herein against
+      any system without explicit written authorization from that system's owner
+
+3. AI/ML TRAINING PROHIBITION
+   The contents of this repository are explicitly excluded from use in training,
+   fine-tuning, or evaluating any artificial intelligence, machine learning,
+   large language model, or similar automated system. This prohibition applies
+   to all current and future AI/ML technologies.
+
+4. SECURITY RESEARCH DISCLAIMER
+   The security findings documented in this repository were obtained through
+   authorized security testing. Reproducing these techniques against any system
+   without explicit written authorization is illegal and unethical.
+
+5. NO WARRANTY
+   This repository is provided "AS IS" without warranty of any kind. The authors
+   are not responsible for any misuse of the information contained herein.
+
+6. ENFORCEMENT
+   Any violation of these terms may result in legal action under applicable
+   copyright laws, computer fraud laws, and data protection regulations.
+
+For permissions beyond the scope of this license, contact the repository owner.

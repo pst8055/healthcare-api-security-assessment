@@ -1,0 +1,41 @@
+# ─── Sensitive Data (NEVER commit) ───
+poc/data/
+poc/docx_output/
+poc/dashboard_poc.html
+poc/poc_dashboard.html
+
+# Raw exports
+*.csv
+*.json
+!package.json
+
+# Downloaded files
+poc/data/attachments/
+*.pdf
+
+# Generated documents
+*.docx
+
+# Environment / secrets
+.env
+.env.*
+*.pem
+*.key
+
+# IDE / OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Claude Code
+.claude/
